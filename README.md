@@ -43,7 +43,7 @@
 
 ### -Junho- 
 
--[Gamer](Programação%20de%20aplicativo/ProjetoDado.zip)
+- [Gamer](Programação%20de%20aplicativo/ProjetoDado.zip)
  
 ========================================================================================
 
