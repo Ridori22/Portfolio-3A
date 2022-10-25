@@ -6,6 +6,10 @@
 - [SA](SA%20-%20Teste%20Vocacional/Projeto%20Teste%20Vocacional%20(1).pdf)
 - []()
 
+## PIT 
+
+- [Docs](PIT/Ricardo%20Silva%20-%20Aula%2024_06%20-%20Desenvolvimento%20de%20Sistemas%20(1).docx)
+
 ## 1º Trimestre
 
 ## Banco de Dados
@@ -56,7 +60,25 @@
 ## 2º Trimestre
 
 ## Desenvolvimento de Sistemas
+
 -[Docs Projeto](Desenvolvimento%20de%20Sistemas/Junho/Ricardo%20Silva%20-%20Aula%2024_06%20-%20Desenvolvimento%20de%20Sistemas.docx)
+
+## PPE BD
+
+- [Codigo](PPE/PPE%20-%20MARIA_PGADMIN.pdf)
+- [Diagrama](PPE/PPE%20TI%20Bar.drawio.png)
+- [Codigo](PPE/PgAdminOticas.pdf)
+
+## PPE Programação de aplicativos
+
+- [WebView](PPE/WebViewPPE.zip)
+
+## PPE Modelagem de Sistemas 
+
+- [Diagrama](PPE/PPE%20Otica%20Ricardo%20(1)%20(1).png)
+- [Oticas](PPE/PPEOticas.zip)
+- [Diagrama](PPE/Ricardo.drawio.png)
+- [PgAdmin](PPE/PgAdminOticas%20(1).pdf)
 
 =======================================================================================
 
