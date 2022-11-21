@@ -44,7 +44,7 @@
  
 ## Desenvolvimento de Sistemas
 
--[Docs Projeto](Desenvolvimento%20de%20Sistemas/Junho/Ricardo%20Silva%20-%20Aula%2024_06%20-%20Desenvolvimento%20de%20Sistemas.docx)
+- [Docs Projeto](Desenvolvimento%20de%20Sistemas/Junho/Ricardo%20Silva%20-%20Aula%2024_06%20-%20Desenvolvimento%20de%20Sistemas.docx)
 
 ## PPE BD
 
