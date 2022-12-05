@@ -11,7 +11,7 @@
 - [Docs](PIT/Ricardo%20Silva%20-%20Aula%2024_06%20-%20Desenvolvimento%20de%20Sistemas%20(1).docx)
 - [Figma](PIT/Figma)
 - [ZIP](PIT/ProjetoZip)
-- [APK]()
+- [APK](PIT/app-debug%20(1).apk)
 
 ## SAEP 
 
